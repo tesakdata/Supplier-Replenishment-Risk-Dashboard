@@ -165,10 +165,32 @@ High concentration under a few suppliers increases risk of delays, price hikes, 
 
 ---
 
-## Conclusion
+## Business Value Delivered
 
-This Supplier Replenishment Risk Dashboard demonstrates how data-driven procurement and replenishment analysis can improve inventory availability, identify supplier dependency risks, and strengthen replenishment planning across the supply chain.
-The insights generated from the dashboard provide a strong foundation for reducing stockout exposure, improving supplier risk visibility, optimizing procurement decisions, and ensuring more consistent inventory continuity through proactive supply chain management.
+
+
+This dashboard helps organization:
+
+- Detect inventory shortages early
+- Reduce stockout risk
+- Improve supplier visibility
+- Strengthen procurement planning
+- Improve inventory continuity
+- Optimize replenishment decisions
+- Support data-driven supply chain operations
 
 ---
+## Author
+
+**Akintunde Teslim Akinmuyiwa**  
+Supply Chain Analyst | Procurement Specialist | Operations Analyst
+
+> Turning supply chain data into actionable strategies for better performance and lower risk.
+
+---
+### Dashboard 1: Supplier Replenish Risk
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6a017bd59c3393b14b11b193_Screenshot%20(40).png" alt="Profile Banner" width="100%"/>
+</p>
+
 
